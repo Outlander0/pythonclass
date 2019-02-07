@@ -1,1 +1,1 @@
-# Python Priject For CS100
+# Python project For CS100
